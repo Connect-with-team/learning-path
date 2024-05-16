@@ -55,3 +55,4 @@ If you're using Visual Studio Code as your code editor, you can easily integrate
 Congratulations on taking the first steps in your journey to mastering Git, GitHub, and VSCode! :clap: Remember to practice regularly and explore additional resources to deepen your understanding.
 
 Happy coding! :smile:
+
