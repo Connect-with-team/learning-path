@@ -25,6 +25,17 @@ GitHub is a platform that hosts Git repositories in the cloud. It provides tools
 3. Follow the instructions in the Git Handbook to learn basic Git commands such as `git init`, `git add`, `git commit`, and `git push`.
 4. Explore GitHub by creating a new repository, adding files, and making commits.
 
+## :pencil2: Markdown Language
+### What is Markdown?
+Markdown is a lightweight markup language with plain-text formatting syntax. It is often used to format readme files, messages in online forums, and to create rich text using a plain text editor.
+
+### Learning Resources:
+- [GitHub Flavored Markdown](https://docs.github.com/en/github/writing-on-github): Official documentation for GitHub-flavored Markdown syntax.
+
+
+#### :rocket: Getting Started Steps:
+1. Familiarize yourself with basic Markdown syntax such as headers, lists, links, and images.
+2. Practice writing Markdown by creating a simple readme file for a project or writing messages in online forums using Markdown formatting.
 ## :computer: Visual Studio Code (VSCode)
 ### What is VSCode?
 Visual Studio Code (VSCode) is a free source-code editor developed by Microsoft for Windows, Linux, and macOS. It provides support for debugging, syntax highlighting, intelligent code completion, and more.
@@ -43,16 +54,7 @@ Visual Studio Code (VSCode) is a free source-code editor developed by Microsoft 
 3. Install useful extensions for your programming language or workflow from the VSCode marketplace.
 4. Customize VSCode settings and keyboard shortcuts according to your preferences.
 
-## :octocat: GitHub Setup in VSCode
-
-### Setting up GitHub Integration in VSCode
-If you're using Visual Studio Code as your code editor, you can easily integrate it with GitHub for seamless version control and collaboration. Follow the steps outlined in the [official documentation](https://code.visualstudio.com/docs/sourcecontrol/github) to set up GitHub in VSCode.
-
-### :film_projector: Video Tutorial:
-- [How to Use GitHub in Visual Studio Code (VSCode) by Traversy Media](https://www.youtube.com/watch?v=i_23KUAEtUM): Watch this video tutorial to learn how to set up and use GitHub in Visual Studio Code.
-
 ## :tada: Conclusion
 Congratulations on taking the first steps in your journey to mastering Git, GitHub, and VSCode! :clap: Remember to practice regularly and explore additional resources to deepen your understanding.
 
 Happy coding! :smile:
-
